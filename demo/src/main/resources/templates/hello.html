@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html xmlns:th ="http://www.thymeleaf.org">  <!-- thymeleaf 문법을 사용하기 위해 선언 -> www.thyleaf.org를 연결 -->
+<head>
+    <meta http-equiv="Content-Type" content="text/html"; charset="utf-8" />
+    <title>Hello Spring</title>
+</head>
+<body>
+  <h1>
+    <p th:text="'안녕하세요 ' + ${data}"></p> <!-- th를 사용해서 thymeleaf 문법을 사용함 -->
+  </h1>
+</body>
+</html>
