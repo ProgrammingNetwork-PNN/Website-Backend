@@ -1,8 +1,6 @@
-# Website - Backend Member
+# 2022 P&N Website
 
-상태: Not started
-
-### 2022 P&N Website - Backend Member
+### Backend Member
 
 정민영 20
 
