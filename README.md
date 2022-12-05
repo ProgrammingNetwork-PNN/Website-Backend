@@ -1,17 +1,3 @@
-# 2022 P&N Website
-
-### Backend Member
-
-정민영 20
-
-신민승 18
-
-이재현 18
-
-이현수 18
-
-이재현 18
-
-이현수 18
+![image](https://user-images.githubusercontent.com/102215701/205679578-9eac0455-ffa1-40b8-a717-331459572bf3.png)
 
 
